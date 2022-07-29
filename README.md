@@ -26,7 +26,7 @@ I am vast at developing for both Andriod and iOS platforms using Dart and Flutte
 
 ![F Droid](https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)⭐️  PAYPROMPT (FinTech).  
 ![F Droid](https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)⭐️  PARKRAY (Logistics).  
-![F Droid](https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)⭐️  TIK-CONNECT (TikTok Scrapper).
+![F Droid](https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)⭐️  TIK-CONNECT (TikTok Scrapper).   
 ![F Droid](https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)⭐️  BEEBZRIDE (Ride Hailing App).   
 
 
