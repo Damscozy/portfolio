@@ -35,7 +35,7 @@ I am vast at developing for both Andriod and iOS platforms using Dart and Flutte
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)[⭐️ FOODGITAL VENDOR (Vendors Ordering App).](https://apps.apple.com/us/app/foodgital-vendor/id1606982893)  
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)[⭐️ FOODGITAL FOODIE (Users Ordering App).](https://apps.apple.com/app/foodgital-foodie/id1606239339)   
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)[⭐️ FOODGITAL RIDER (Delivery App).](https://apps.apple.com/us/app/foodgital-riders/id1606645425)  
-![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)[⭐️ HUZZ (Fund management).](https://apps.apple.com/app/id1596574133) 
+![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)[⭐️ HUZZ (Fund management).](https://apps.apple.com/app/id1596574133)   
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)[⭐️  EMERGING WEALTH (Investment App).](https://testflight.apple.com/join/d8gZfHIF)  
 ## Deployment
 
