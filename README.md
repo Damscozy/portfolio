@@ -14,7 +14,7 @@ I am vast at developing for both Andriod and iOS platforms using Dart and Flutte
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/damscozy)
 ## Previous Projects(Play Store)
 
-![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)[⭐️ FOODGITAL VENDOR (Vendors Ordering App).](https://play.google.com/store/apps/details?id=com.foodgital.vendors.vendors)
+![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)[⭐️ FOODGITAL VENDOR (Vendors Ordering App).](https://play.google.com/store/apps/details?id=com.foodgital.vendors.vendors)  
 ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)[⭐️  FOODGITAL FOODIE (Users Ordering App).](https://play.google.com/store/apps/details?id=com.foodgital.foodie.foodies)    
 ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)[⭐️  FOODGITAL RIDER (Delivery App).](https://play.google.com/store/apps/details?id=com.foogital.foodgitalRiders)  
 ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)[⭐️  HUZZ (Fund management).](https://play.google.com/store/apps/details?id=com.app.huzz)  
