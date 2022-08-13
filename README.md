@@ -2,12 +2,12 @@
 # Adedamola ADEYEYE (WebX)
 
 I am a Software Developer and Product Designer(UI/UX), I appreciate transforming complex issues into straightforward interfaces.
-I am vast at developing for both Andriod and iOS platforms using Dart and Flutter Framework to achieve user usable app. 
+I am adept at developing Android and iOS platforms using Dart and Flutter Framework to achieve user-usable apps. 
 
 
 ## 🔗Portfolio Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://about.me/adeyeyeadedamola) 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/adeyeyeadeamola) 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeyeyeadeamola) 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/damscozy) 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/damscozy) 
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://upwork.com/adedamolaadeyeye) 
