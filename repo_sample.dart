@@ -174,11 +174,6 @@ class BillerRepository extends GetxController {
 
         _singleBillersId(singleBillersId);
         getPaymentCode('', billerId: selectedSingleBiller.value!.BillerId!);
-        // if (singleBillerId.isEmpty) {
-        //   _singleBillerStatus(SingleBillerStatus.Empty);
-        // } else {
-        //   _singleBillerStatus(SingleBillerStatus.AVAILABLE);
-        // }
       } else {
         _singleBillerStatus(SingleBillerStatus.Unknown_Error);
       }
@@ -210,12 +205,6 @@ class BillerRepository extends GetxController {
                 .toList();
 
         _singleBillersCategory(singleBillersCategories);
-
-        // if (singleBillersCategories.isEmpty) {
-        // _singleBillerStatus(SingleBillerStatus.Empty);
-        // } else {
-        //   _singleBillerStatus(SingleBillerStatus.AVAILABLE);
-        // }
       } else {
         _singleBillerStatus(SingleBillerStatus.Empty);
       }
@@ -249,16 +238,6 @@ class BillerRepository extends GetxController {
             .map((e) => ValidateCusModel.fromJson(e))
             .toList();
         return allCustomer.first.fullName;
-        // [
-        // allCustomer.first.amount,
-        // ];
-
-        // _validCust(allCustomer);
-        // if (singleBillersCategories.isEmpty) {
-        // _singleBillerStatus(SingleBillerStatus.Empty);
-        // } else {
-        //   _singleBillerStatus(SingleBillerStatus.AVAILABLE);
-        // }
       } else {
         _singleBillerStatus(SingleBillerStatus.Empty);
       }
@@ -380,12 +359,6 @@ class BillerRepository extends GetxController {
         } else {
           selectedPayment(allPayment.first);
         }
-
-        // if (singleBillersCategories.isEmpty) {
-        // _singleBillerStatus(SingleBillerStatus.Empty);
-        // } else {
-        //   _singleBillerStatus(SingleBillerStatus.AVAILABLE);
-        // }
       } else {
         _singleBillerStatus(SingleBillerStatus.Empty);
       }
@@ -429,9 +402,6 @@ class BillerRepository extends GetxController {
       }
     } catch (ex) {
       _singleBillerStatus(SingleBillerStatus.Unknown_Error);
-      // if (kDebugMode) {
-      //   print("unable to process airtime purchase status ${ex.toString()}");
-      // }
     }
     return _allCable(allCable);
   }
@@ -467,9 +437,6 @@ class BillerRepository extends GetxController {
       }
     } catch (ex) {
       _singleBillerStatus(SingleBillerStatus.Unknown_Error);
-      // if (kDebugMode) {
-      //   print("unable to process airtime purchase status ${ex.toString()}");
-      // }
     }
     return _allEletric(allEletric);
   }
@@ -505,9 +472,6 @@ class BillerRepository extends GetxController {
       }
     } catch (ex) {
       _airtimeDateStatus(AirtimeDateStatus.Unknown_Error);
-      // if (kDebugMode) {
-      //   print("unable to process airtime purchase status ${ex.toString()}");
-      // }
     }
     return _allAirtime(allAirtime);
   }
@@ -543,9 +507,6 @@ class BillerRepository extends GetxController {
       }
     } catch (ex) {
       _airtimeDateStatus(AirtimeDateStatus.Unknown_Error);
-      // if (kDebugMode) {
-      //   print("unable to process data purchase status ${ex.toString()}");
-      // }
     }
     return _allData(allData);
   }
