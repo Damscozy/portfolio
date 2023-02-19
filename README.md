@@ -37,13 +37,19 @@ I am adept at developing Android and iOS platforms using Dart and Flutter Framew
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)[⭐️ FOODGITAL RIDER (Delivery App).](https://apps.apple.com/us/app/foodgital-riders/id1606645425)  
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)[⭐️ HUZZ (Fund management).](https://apps.apple.com/app/id1596574133)   
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)[⭐️  EMERGING WEALTH (Investment App).](https://testflight.apple.com/join/d8gZfHIF)  
+![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)[⭐️  Search Kee (E-Commerce App).](https://apps.apple.com/app/searchkee/id1658787073)
+![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)[⭐️  Foodelo (Food Ordering App).](https://apps.apple.com/us/app/foodelo/id1645133706)  
+![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)[⭐️  HYPE Investor (Stock Investment).](https://testflight.apple.com/join/o52JkkRd)  
+![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)[⭐️  BeebzRdie (Ride Hailing - Shared Ride).](https://apps.apple.com/us/app/beebzride/id1632554023)  
 ## Deployment
 
 To deploy this project run
 
 ```bash
   npm run deploy.  
-  flutter clean && flutter pub get && flutter run
+  flutter clean
+  flutter pub get
+  flutter run
 ```
 
 
