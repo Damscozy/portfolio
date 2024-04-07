@@ -45,7 +45,7 @@ I am adept at developing Android and iOS platforms using Dart and Flutter Framew
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)[⭐️  Search Kee (E-Commerce App).](https://apps.apple.com/app/searchkee/id1658787073)   
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)[⭐️  Foodelo (Food Ordering).](https://apps.apple.com/us/app/foodelo/id1645133706)  
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)[⭐️  HYPE Investor (Stock Investment).](https://testflight.apple.com/join/o52JkkRd)  
-![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)[⭐️  BeebzRdie (Ride Hailing - Shared Ride).](https://apps.apple.com/us/app/beebzride/id1632554023)
+![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)[⭐️  BeebzRdie (Ride Hailing - Shared Ride).](https://apps.apple.com/us/app/beebzride/id1632554023)                            
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)[⭐️  Chub (Social App).](https://apps.apple.com/us/app/chub/id6450390309)
 
 ## 🛠 Skills
