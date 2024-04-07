@@ -32,7 +32,7 @@ I am adept at developing Android and iOS platforms using Dart and Flutter Framew
 ![F Droid](https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)⭐️  PAYPROMPT (FinTech).  
 ![F Droid](https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)⭐️  PARKRAY (Logistics).  
 ![F Droid](https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)⭐️  TIK-CONNECT (TikTok Scrapper).   
-![F Droid](https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)⭐️  Tomcom(Tomatoe Farm)).   
+![F Droid](https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)⭐️  Tomcom(Tomatoe Farm).   
 
 
 ## Previous Projects(iOS)
