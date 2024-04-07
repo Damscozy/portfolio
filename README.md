@@ -24,7 +24,8 @@ I am adept at developing Android and iOS platforms using Dart and Flutter Framew
 ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)[⭐️  SearchKee (E-Commerce).](https://play.google.com/store/apps/details?id=com.searchkee.apps)    
 ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)[⭐️  BeebzRide (Shared Ride - Uber Like).](https://play.google.com/store/apps/details?id=com.beebzride)  
 ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)[⭐️  Foodgital (Restaurants/Vendor Management).](https://play.google.com/store/apps/details?id=com.foodgital)
-![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)[⭐️  Chub (Social App).](https://play.google.com/store/apps/details?id=com.challenge365.app)
+![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)[⭐️  
+Chub (Social App).](https://play.google.com/store/apps/details?id=com.challenge365.app)
 
 
 ## Previous Projects(Android)
@@ -46,7 +47,8 @@ I am adept at developing Android and iOS platforms using Dart and Flutter Framew
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)[⭐️  Foodelo (Food Ordering).](https://apps.apple.com/us/app/foodelo/id1645133706)  
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)[⭐️  HYPE Investor (Stock Investment).](https://testflight.apple.com/join/o52JkkRd)  
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)[⭐️  BeebzRdie (Ride Hailing - Shared Ride).](https://apps.apple.com/us/app/beebzride/id1632554023)
-![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)[⭐️  Chub (Social App).](https://apps.apple.com/us/app/chub/id6450390309)
+![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)[⭐️  
+Chub (Social App).](https://apps.apple.com/us/app/chub/id6450390309)
 
 ## 🛠 Skills
 Dart, Javascript, HTML, CSS, CI/CD...
